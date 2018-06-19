@@ -1,2 +1,1 @@
-# CateringPalsFinal
-Web Catering
+# CateringPalsAplikacijaFinal
